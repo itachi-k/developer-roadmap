@@ -1,1 +1,3 @@
 # Learn a language
+
+In order to code in the backend, you need to learn and develop skills within a language of your preference. You have multiple options, such as python, C#, Ruby, Javascript and PHP. All the while you would be developping a problem solving mentality. Finally these languages can let you access even more content such as Typescript, API's frameworks etc...
